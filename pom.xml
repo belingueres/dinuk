@@ -4,7 +4,7 @@
 
   <groupId>io.github.belingueres.dinuk</groupId>
   <artifactId>dinuk</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1-SNAPSHOT</version>
 
   <name>dinuk</name>
   <description>A transparent JDBC driver that rewrites SQL at the client so applications
@@ -32,7 +32,7 @@
     <connection>scm:git:https://github.com/belingueres/dinuk.git</connection>
     <developerConnection>scm:git:https://github.com/belingueres/dinuk.git</developerConnection>
     <url>https://github.com/belingueres/dinuk</url>
-    <tag>dinuk-0.1.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
