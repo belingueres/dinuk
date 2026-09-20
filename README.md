@@ -244,19 +244,13 @@ Notes:
 
 ### Maven
 
-Not yet published to a public repository — install it locally first:
-
-```bash
-mvn install
-```
-
-Then depend on it:
+Available on Maven Central:
 
 ```xml
 <dependency>
   <groupId>io.github.belingueres.dinuk</groupId>
   <artifactId>dinuk</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
 </dependency>
 ```
 
